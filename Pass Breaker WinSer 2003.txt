@@ -1,0 +1,21 @@
+1. Perform Server Snapshot
+2. Connect to ISO and boot from CD
+3. Wait for loading the partitions
+4. Press "o" and then "Enter"
+5. Select the "BOOT" disk and then "Enter"
+6. Press "Enter"
+7. Press "1" and then "Enter"
+8. Press "1" and then "Enter"
+9. Select the RID of the Administrator user and then "Enter"
+10. Press "1" and then "Enter"
+11. Press "q" and then "Enter"
+12. Press "q" and then "Enter"
+13. Press "y" and then "Enter"
+14. Remove ISO
+15. Restart the Server
+16. Access the Server with the Administrator user without password
+17. Right click on "My Computer"
+18. Select "Manage"
+20. Log in to the local users tab
+21. Right-click the Administrator user
+22. Set a password

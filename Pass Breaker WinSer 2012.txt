@@ -1,0 +1,25 @@
+1. Perform Server Snapshot
+2. Ising the ISO of Windows Server 2012
+3. Boot by ISO
+4. Enter recovery mode
+5. Access the CMD
+6. Run the command "ren c:\windows\system32\osk.exe osk.bkp.exe"
+7. Run the command "ren c:\windows\system32\cmd.exe osk.exe"
+8. Disconnect the Server
+9. Remove ISO
+10. Turn on the Server
+11. Wait for the Server to start normally
+12. Open the virtual keyboard, which will open as the prompt
+13. Run the command "net user Administrator Isaac@1337"
+14. Disconnect the server
+15. Reissue to ISO
+16. Enter recovery mode again
+17. Access the CMD
+18. Run the command "ren c:\windows\system32\osk.exe cmd.exe"
+19. Run the osk.exe command "ren c:\windows\system32\osk.bkp.exe osk.exe"
+20. Shutting Down the Server
+21. Disconnect the ISO
+22. Turn on the Server
+23. Log in to the server with the Administrator user and the password Isaac @ 1947
+24. Validate if the files in "C:\windows\system32" that have changed have the correct names
+25. Remove Snapshot from Server
