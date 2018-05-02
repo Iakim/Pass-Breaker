@@ -1,0 +1,14 @@
+1. Run snapshot from the server
+2. Directly on the console re-configure a machine
+3. In the kernel options press the "e" key to edit the boot
+4. Find a line that starts with "linux16"
+5. Place the editor on the line and press "Ctrl+E" to go to the end of the line
+6. After giving a space and typing "init=/bin/bash"
+7. Press "Ctrl+x" to boot the changes
+8. When "bash-4.2 #" appears or something like that has been done successfully
+9. Type the command "mount -o remount,rw /" to reassemble in write mode
+10. Enter the "passwd" command and a new password
+11. After the reset
+12. Re-mount in read mode with the command "mount -o remount,ro /"
+13. After that, press "Ctrl+d" and restart the server
+14. Enter the user root and new password that registered
