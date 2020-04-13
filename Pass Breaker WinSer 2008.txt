@@ -20,6 +20,6 @@
 20. Shutting Down the Server
 21. Disconnect the ISO
 22. Turn on the Server
-23. Log in to the server with the Administrator user and the password Isaac @ 1337
+23. Log in to the server with the Administrator user and the password Isaac@1337
 24. Validate if the files in "C:\windows\system32" that have changed have the correct names
 25. Remove Snapshot from Server
